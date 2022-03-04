@@ -38,11 +38,11 @@ Transformation
   <li>Open SQLiteStudio and export your project internal file and close SQLiteStudio.</li>
   <li>Go to web ripper output folder and open trial file in notepad and perform some Transformation </li>
   <ul><li>	Comment Pragma foreign key with ----</ul></li>
-<li>Replace “ with !	
-<li>Replace [ !
-<li>Replace ] !
-<li>Replace nvarchar(4000) with text
-<li>Replace guid with char(36)
+<ul><li>Replace “ with !	</ul></li>
+<ul><li>Replace [ !</ul></li>
+<ul><li>Replace ] !</ul></li>
+<ul><li>Replace nvarchar(4000) with text</ul></li>
+<ul><li>Replace guid with char(36)</ul></li>
 <li>Open Database with assigned name and password and import file.</li>
 Consolidation 
 <p>To perform Consolidation on data does following steps</p> 
