@@ -18,16 +18,17 @@ Evolution
   <li>Personal preference</li>
   <li>	Or some ingredients are not available in the kitchen</li>
   <p>We try to switch ingredients that help to keep the same taste or texture. For that purpose we use different methodologies </p>
-  <ul><li>	Genetic Algorithm which model genetic evolution.</ul><li>
-<li>	Genetic programming which is based on genetic algorithms, but individuals is programs (represented as trees).</li>
-#Activities
-#Documentation 
+  <li>Genetic Algorithm which model genetic evolution.<li>
+  <li>Genetic programming which is based on genetic algorithms, but individuals is programs (represented as trees).</li>
+Activities
+Documentation 
   <p>Read Different Research paper and Write summary in which tells about </p>
-  <ul><li>Which is done?<ul><li>
-<li>What was the outcome? <li>
-<li>Strength <li>
+<li>Which is done?<li>
+<li>What was the outcome?<li>
+<li>Strength<li>
 <li>Weakness<li> 
-#Extraction 
+Extraction 
     <p>To do Extraction perform following steps</p>
     <li>Open visual web Ripper and paste website lin</li>
+    <li>Now to extract data create template, selects all recipes, click new write name, click save.
 
