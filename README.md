@@ -35,6 +35,7 @@
 ### Extraction 
   <p>To do Extraction perform following steps</p>
   <li>Open visual web Ripper and paste website lin</li>
+  ![logo](https://user-images.githubusercontent.com/96038282/156811578-2eca04b9-493a-4687-b4f1-0d37f950f777.png)
   <li>Now to extract data create template, selects all recipes, click new write name, click save.</li>
   <li>Check if there are more than one page than add page navigation and change the link to page navigation. Now open the list and add content. E.g. recipe name, Cooktime, Preptime, Instructions, Ingredients and nutrition</li>
   <li>Run the Project. </li>
