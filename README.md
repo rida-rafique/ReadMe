@@ -22,13 +22,16 @@
   <p>We try to switch ingredients that help to keep the same taste or texture. For that purpose we use different methodologies </p>
   <li>Genetic Algorithm which model genetic evolution.</li>
   <li>Genetic programming which is based on genetic algorithms, but individuals is programs (represented as trees).</li>
+
 ### <br>Activities
+  
 ### <br>Documentation 
  <p>Read Different Research paper and Write summary in which tells about </p>
 <li>Which is done?</li>
 <li>What was the outcome?</li>
 <li>Strength</li>
   <li>Weakness</li>
+  
 ### Extraction 
     <p>To do Extraction perform following steps</p>
     <li>Open visual web Ripper and paste website lin</li>
