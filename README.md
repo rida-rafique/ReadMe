@@ -71,7 +71,12 @@
 <li>To create idid column write 3 digit id value 
 <li>Remove duplicate url in temp1 
 <li>Consolidate ingredients, instruction and nutrition. 
+  
+### Adjacency matrix
+  <p>In graph theory and computer science, an adjacency matrix is a square matrix used to represent a finite graph. The elements of the matrix indicate whether pairs of vertices are adjacent or not in the graph. In the special case of a finite simple graph, the adjacency matrix is a (0,1)-matrix with zeros on its diagonal.The adjacency matrix, sometimes also called the connection matrix, of a simple labeled graph is a matrix with rows and columns labeled by graph vertices, with a 1 or 0 in position according to whether and. are adjacent or not.</p>
 
+  ### Embedded System
+  <p>Embedded means something that is attached to another thing. An embedded system can be thought of as a computer hardware system having software embedded in it. An embedded system can be an independent system or it can be a part of a large system. An embedded system is a microcontroller or microprocessor based system which is designed to perform a specific task. For example, a fire alarm is an embedded system; it will sense only smoke.</p>
 ### Install 
 <br>Visual Web Ripper 
 <br>Download here https://download.cnet.com/Visual-Web-Ripper/3000-2381_4-10754835.html
