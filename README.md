@@ -1,5 +1,5 @@
 # Recipe Evolution
-######Pre-Requisite######
+Pre-Requisite
 <ul><li>MS Excel 
 <li>Visual Web Ripper
 <li>SQLiteStudio
@@ -18,8 +18,8 @@ Evolution
   <p>We try to switch ingredients that help to keep the same taste or texture. For that purpose we use different methodologies </p>
   <li>Genetic Algorithm which model genetic evolution.</li>
   <li>Genetic programming which is based on genetic algorithms, but individuals is programs (represented as trees).</li>
-Activities
-Documentation 
+<br>Activities
+<br>Documentation 
  <p>Read Different Research paper and Write summary in which tells about </p>
 <li>Which is done?</li>
 <li>What was the outcome?</li>
