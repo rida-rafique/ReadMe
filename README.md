@@ -53,4 +53,10 @@ Consolidation
 <li>To create idid column write 3 digit id value 
 <li>Remove duplicate url in temp1 
 <li>Consolidate ingredients, instruction and nutrition. 
+Install 
+Visual Web Ripper 
+Download here https://download.cnet.com/Visual-Web-Ripper/3000-2381_4-10754835.html
+SQLiteStudio 
+  Download here <a href="https://sqlitestudio.pl/"></a>
+
 
