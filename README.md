@@ -18,17 +18,39 @@ Evolution
   <li>Personal preference</li>
   <li>	Or some ingredients are not available in the kitchen</li>
   <p>We try to switch ingredients that help to keep the same taste or texture. For that purpose we use different methodologies </p>
-  <li>Genetic Algorithm which model genetic evolution.<li>
+  <li>Genetic Algorithm which model genetic evolution.</li>
   <li>Genetic programming which is based on genetic algorithms, but individuals is programs (represented as trees).</li>
 Activities
 Documentation 
-  <p>Read Different Research paper and Write summary in which tells about </p>
-<li>Which is done?<li>
-<li>What was the outcome?<li>
-<li>Strength<li>
-<li>Weakness<li> 
+ <p>Read Different Research paper and Write summary in which tells about </p>
+<li>Which is done?</li>
+<li>What was the outcome?</li>
+<li>Strength</li>
+  <li>Weakness</li>
 Extraction 
     <p>To do Extraction perform following steps</p>
     <li>Open visual web Ripper and paste website lin</li>
     <li>Now to extract data create template, selects all recipes, click new write name, click save.
+    <li>Check if there are more than one page than add page navigation and change the link to page navigation. Now open the list and add content. E.g. recipe name, Cooktime, Preptime, Instructions, Ingredients and nutrition</li>
+  <li>Run the Project. </li>
+Transformation 
+  <p>To perform Transformation on data does following steps </p>
+  <li>Open SQLiteStudio and export your project internal file and close SQLiteStudio.</li>
+  <li>Go to web ripper output folder and open trial file in notepad and perform some Transformation </li>
+  <ul><li>	Comment Pragma foreign key with ----</ul></li>
+<li>Replace “ with !	
+<li>Replace [ !
+<li>Replace ] !
+<li>Replace nvarchar(4000) with text
+<li>Replace guid with char(36)
+<li>Open Database with assigned name and password and import file.</li>
+Consolidation 
+<p>To perform Consolidation on data does following steps</p> 
+<li>Open MySQL Workbench and create connection.</li>
+<li>Click on open sql script and select file click on ok.</li>
+<li>Write database name and run the query.</li>
+<li>Write recipe table name and run the query.
+<li>To create idid column write 3 digit id value 
+<li>Remove duplicate url in temp1 
+<li>Consolidate ingredients, instruction and nutrition. 
 
