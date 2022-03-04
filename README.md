@@ -23,9 +23,9 @@
   <li>Genetic Algorithm which model genetic evolution.</li>
   <li>Genetic programming which is based on genetic algorithms, but individuals is programs (represented as trees).</li>
 
-### <br>Activities
+### Activities
   
-### <br>Documentation 
+### Documentation 
  <p>Read Different Research paper and Write summary in which tells about </p>
 <li>Which is done?</li>
 <li>What was the outcome?</li>
@@ -33,10 +33,10 @@
   <li>Weakness</li>
   
 ### Extraction 
-    <p>To do Extraction perform following steps</p>
-    <li>Open visual web Ripper and paste website lin</li>
-    <li>Now to extract data create template, selects all recipes, click new write name, click save.</li>
-    <li>Check if there are more than one page than add page navigation and change the link to page navigation. Now open the list and add content. E.g. recipe name, Cooktime, Preptime, Instructions, Ingredients and nutrition</li>
+  <p>To do Extraction perform following steps</p>
+  <li>Open visual web Ripper and paste website lin</li>
+  <li>Now to extract data create template, selects all recipes, click new write name, click save.</li>
+  <li>Check if there are more than one page than add page navigation and change the link to page navigation. Now open the list and add content. E.g. recipe name, Cooktime, Preptime, Instructions, Ingredients and nutrition</li>
   <li>Run the Project. </li>
   
 ### Transformation 
