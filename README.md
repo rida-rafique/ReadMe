@@ -23,7 +23,7 @@
   <li>Genetic Algorithm which model genetic evolution.</li>
   <li>Genetic programming which is based on genetic algorithms, but individuals is programs (represented as trees).</li>
 
-### Activities
+## Activities
   
 ### Documentation 
  <p>Read Different Research paper and Write summary in which tells about </p>
@@ -50,6 +50,7 @@
 <ul><li>Replace nvarchar(4000) with text</ul></li>
 <ul><li>Replace guid with char(36)</ul></li>
 <li>Open Database with assigned name and password and import file.</li>
+
 ### Consolidation 
 <p>To perform Consolidation on data does following steps</p> 
 <li>Open MySQL Workbench and create connection.</li>
@@ -60,7 +61,7 @@
 <li>Remove duplicate url in temp1 
 <li>Consolidate ingredients, instruction and nutrition. 
   
-### <br>Install 
+### Install 
 <br>Visual Web Ripper 
 <br>Download here https://download.cnet.com/Visual-Web-Ripper/3000-2381_4-10754835.html
 <br>SQLiteStudio 
